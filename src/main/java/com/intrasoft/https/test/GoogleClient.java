@@ -8,6 +8,12 @@ import java.io.IOException;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+
+/**
+ *  Example taken from the book:
+ * Java Web Services 2nd Edition Edition Up and Running
+ * @author tchaikalis
+ */
 public class GoogleClient {
 
     private static final String endpoint = "https://www.google.com:443/";
