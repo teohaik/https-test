@@ -2,7 +2,7 @@
 
 Typical output:
 
-       Status code: 200
+        Status code: 200
 
         Cipher suite: TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256
 	Cert. type: X.509
